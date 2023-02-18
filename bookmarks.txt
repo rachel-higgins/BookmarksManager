@@ -1,0 +1,16 @@
+Data Structures;https://www.pearson.com/us/higher-education/product/Carrano-Data-Abstraction-Problem-Solving-with-C-5th-Edition/9780321433329.html;The classic, best-selling Data Abstraction and Problem Solving with C++: Walls and Mirrors book provides a firm foundation in data structures;The textbook covers each topic for PCC's Data Structures in a way that is very easy to understand;5
+Python;https://docs.python.org/3/;This is the official documentation for the latest version ofPython;Best resource for Python;5
+C++;https://www.youtube.com/watch?v=vLnPwxZdW4Y;C++ Tutorial for Beginners - Full Course;Good intro to C++, but no longer relevant; 1
+Data Structures;https://www.youtube.com/watch?v=B31LgI4Y4DQ;Data Structures - Full Course Using C and C++;Good intro to Data Structures using C++ and relavent to current class (CS260);4
+Geology;https://en.wikipedia.org/wiki/Geology_of_the_Moon;Geology of the Moon;A decent reference for GS160;3
+Music;https://spotify.com/;Music + Podcasts;Primarily used for music;3
+Data Structures;https://www.pearson.com/us/higher-education/product/Carrano-Data-Abstraction-Problem-Solving-with-C-5th-Edition/9780321433329.html;The classic, best-selling Data Abstraction and Problem Solving with C++: Walls and Mirrors book provides a firm foundation in data structures;The textbook covers each topic for PCC's Data Structures in a way that is very easy to understand;5
+Python;https://docs.python.org/3/;This is the official documentation for the latest version ofPython;Best resource for Python;5
+C++;https://www.youtube.com/watch?v=vLnPwxZdW4Y;C++ Tutorial for Beginners - Full Course;Good intro to C++, but no longer relevant; 1
+Data Structures;https://www.youtube.com/watch?v=B31LgI4Y4DQ;Data Structures - Full Course Using C and C++;Good intro to Data Structures using C++ and relavent to current class (CS260);4
+Geology;https://en.wikipedia.org/wiki/Geology_of_the_Moon;Geology of the Moon;A decent reference for GS160;3
+Music;https://spotify.com/;Music + Podcasts;Primarily used for music;3
+Geology;https://en.wikipedia.org/wiki/Geology_of_the_Moon;Geology of the Moon;A decent reference for GS160;3
+Data Structures;https://www.youtube.com/watch?v=B31LgI4Y4DQ;Data Structures - Full Course Using C and C++;Good intro to Data Structures using C++ and relavent to current class (CS260);4
+Geology;https://en.wikipedia.org/wiki/Geology_of_the_Moon;Geology of the Moon;A decent reference for GS160;3
+Music;https://spotify.com/;Music + Podcasts;Primarily used for music;3

@@ -1,0 +1,18 @@
+Efficiency Review Write-up
+Rachel Higgins
+CS260 Project 4
+
+1) How well did the data structure selected perform for the assigned application?
+I think my data structure performed well. In most cases the height of the tree stayed closer to the minimum possible height rather than the maximum. I know it is hard to create a truly balanced BST because the order that the data is received for insertion makes a huge difference. My test data often times had a tree hight of log2(n+1) or most minimum possible height. So in that regards I think it performed very well and as intended.
+
+2) Would a different data structure work better? If so, which one and why…
+I’m not one hundred percent sure which data structure might work better. I think that because we care about the value and are inserting using a value a BST of linked pointer nodes works very well. 
+
+3) What was efficient about your design and use of the data structure?
+I think my implementation of recursion was done efficiently. Most functions were made recursively which takes advantage of the recursive nature of the ADT.
+
+4) What was not efficient?
+I’m not sure if there is a specific aspect of my program that stands out s not efficient. I think the efficiency improved a lot more when switching from a the table ADT in project 3 to the BST ADT in this project.
+
+5) What would you do differently if you had more time to solve the problem?
+The only thing that comes to mind is improving on how I calculate the minimum possible height of the tree. I think I could probably use existing math functions that might be more efficient to calculate the minimum height versus what I did which was to a loop that doubled the size of an integer initialized to 1 and adding 1 then checking if this total (representing possible nodes was equal or greater to the number of items in the tree.
